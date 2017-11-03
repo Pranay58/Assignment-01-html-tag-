@@ -1,0 +1,39 @@
+body{
+	background: blanchedalmond;
+	margin: 0;
+}
+
+h1{
+         color: brown;
+    text-transform: uppercase;
+    text-align: center;
+    background: burlywood
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+
+    font-size: 24px
+}
+tr{
+
+}
+td{
+	border: 1px solid white;
+}
+th{
+	border: 1px solid white;
+}
+.table-head{
+	background: rgba(154, 62, 83, 0.61);
+}
+
+.brown{
+	background: #f7b9a5;
+}
+.blue{
+	background: rgb(247, 208, 158);
+}
